@@ -1,0 +1,11 @@
+streamlit
+pandas
+folium
+streamlit-folium
+shapely
+fpdf2
+matplotlib
+geopy
+streamlit-vizzu
+ipyvizzu
+openpyxl
